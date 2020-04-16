@@ -11,7 +11,7 @@ function BrewIntro() {
     <div className="intro-container">
       <img src={IntroBG} alt="background" className="intro-bg" />
       <Grid container justify="center" className="intro-content">
-        <Grid container item xs={10} spacing={3}>
+        <Grid container item xs={10} xl={8} spacing={3}>
           <Grid container item xs={12}>
             <Grid item xs={7}>
               <h2 className="H2">
@@ -32,7 +32,7 @@ function BrewIntro() {
         </Grid>
 
         <Grid item container xs={12} justify="center">
-          <Grid item container xs={10} spacing={3}>
+          <Grid item container xs={10} xl={8} spacing={3}>
             <Grid
               item
               container

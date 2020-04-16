@@ -13,7 +13,7 @@ function Partner() {
     <div className="partner-container">
       <img className="partner-bg-img" src={PartnerBG} alt="background" />
       <Grid item container justify="center">
-        <Grid item container xs={10} justify="space-between">
+        <Grid item container xs={10} xl={8} justify="space-between">
           <Grid item container xs={5}>
             <h2 className="H2">Partner With Us</h2>
             <Grid item container>

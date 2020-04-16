@@ -28,10 +28,10 @@ function Publications() {
               <span className="underlined">enjoyable.</span>
             </h3>
           </Grid>
-          <Grid item xs={10}>
+          <Grid item xs={10} xl={8}>
             <BrewTicker />
           </Grid>
-          <Grid item container xs={10} justify="center">
+          <Grid item container xs={10} xl={8} justify="center">
             <Grid item container xs={4} className="newsletter-container">
               <Grid item>
                 <div className="pre-header">Our Flagship Newsletter</div>

@@ -8,7 +8,7 @@ function Footer() {
   return (
     <div className="footer-container">
       <Grid item container justify="center">
-        <Grid item container xs={9} justify="space-evenly" spacing={3}>
+        <Grid item container xs={9} xl={7} justify="space-evenly" spacing={3}>
           <Grid item container xs style={{ position: "relative" }}>
             <img className="mug-img" src={Mug} alt="morning brew mug" />
           </Grid>

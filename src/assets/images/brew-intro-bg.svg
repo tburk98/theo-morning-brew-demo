@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="951.71" height="734.527" viewBox="0 0 951.71 734.527">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1c9cf2;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        opacity: 0.09;
+      }
+
+      .cls-2 {
+        fill: #72b3ff;
+      }
+
+      .cls-3 {
+        fill: #0069e2;
+      }
+    </style>
+  </defs>
+  <g id="Background" transform="translate(952.457 734.668) rotate(180)">
+    <path id="Weird_Shape" data-name="Weird Shape" class="cls-1" d="M9.056,88.543C70.348-49.981,460.041-24.628,579.946,155.2s-17.129,579.33-139.967,579.33S317.141,464.8,266.492,385.58-52.237,227.066,9.056,88.543Z" transform="translate(291.661 0.141)"/>
+    <path id="Weird_Shape-2" data-name="Weird Shape" class="cls-2" d="M130.259,406.331c71.9,16.475,74.824-61.639,74.788-165.362S219.382,18.27,147.478,1.8-.036,84.97,0,188.694,58.355,389.856,130.259,406.331Z" transform="translate(309.069 116.59) rotate(49)"/>
+    <path id="Weird_Shape-3" data-name="Weird Shape" class="cls-3" d="M67.922,215.627c49.511,0,104.13-47.406,104.13-107.814S117.432,0,67.922,0,0,69.131,0,118.676,18.411,215.627,67.922,215.627Z" transform="translate(780.405 465.512)"/>
+  </g>
+</svg>

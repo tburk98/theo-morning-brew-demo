@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1776.099" height="396.171" viewBox="0 0 1776.099 396.171">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.2;
+      }
+
+      .cls-2 {
+        fill: #ff9b21;
+      }
+
+      .cls-3 {
+        fill: #2b44ff;
+      }
+
+      .cls-4 {
+        fill: #232323;
+      }
+
+      .cls-5 {
+        fill: #2026a2;
+      }
+    </style>
+  </defs>
+  <g id="Background" class="cls-1" transform="translate(-38 297.105) rotate(-90)">
+    <circle id="Oval" class="cls-2" cx="130.553" cy="130.553" r="130.553" transform="translate(36 69.411)"/>
+    <circle id="Oval-2" data-name="Oval" class="cls-3" cx="26.756" cy="26.756" r="26.756" transform="translate(212.935 509.183)"/>
+    <circle id="Oval-3" data-name="Oval" class="cls-4" cx="127.756" cy="127.756" r="127.756" transform="translate(-99.065 1558.587)"/>
+    <path id="Polygon" class="cls-3" d="M31.746,0,63.493,31.746,31.746,63.493,0,31.746Z" transform="translate(92.647 38)"/>
+    <path id="Polygon-2" data-name="Polygon" class="cls-3" d="M31.746,0,63.493,31.746,31.746,63.493,0,31.746Z" transform="translate(29.647 1526.961)"/>
+    <path id="Polygon-3" data-name="Polygon" class="cls-2" d="M15.549,0,31.1,15.549,15.549,31.1,0,15.549Z" transform="translate(20.732 482.985)"/>
+    <path id="Polygon-4" data-name="Polygon" class="cls-2" d="M15.549,0,31.1,15.549,15.549,31.1,0,15.549Z" transform="translate(219.732 1086.758)"/>
+    <path id="Polygon-5" data-name="Polygon" class="cls-5" d="M7.775,0l7.775,7.775L7.775,15.549,0,7.775Z" transform="translate(253.322 40.817)"/>
+  </g>
+</svg>

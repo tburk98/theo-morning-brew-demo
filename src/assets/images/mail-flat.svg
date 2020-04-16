@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="161.322" height="160.212" viewBox="0 0 161.322 160.212">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #1c7ff2;
+      }
+
+      .cls-1 {
+        opacity: 0.2;
+      }
+    </style>
+  </defs>
+  <g id="Group_214" data-name="Group 214" transform="translate(-1113.406 -4179.403)">
+    <path id="Path_995" data-name="Path 995" class="cls-1" d="M.027,83.441c1.13-49.277,52.741-94.973,75.08-80.834s54.085,91.537,6.423,107.014S-1.1,132.719.027,83.441Z" transform="translate(1184.56 4339.615) rotate(-132)"/>
+    <g id="noun_Email_1569817" transform="translate(1169.396 4237.213)">
+      <g id="Group_136" data-name="Group 136" transform="translate(0 0)">
+        <path id="Path_992" data-name="Path 992" class="cls-2" d="M7.843,972.362A1.844,1.844,0,0,0,6,974.205v33.18a1.844,1.844,0,0,0,1.843,1.843H58.228a1.843,1.843,0,0,0,1.843-1.843V974.205a1.843,1.843,0,0,0-1.843-1.843Zm5.223,3.687H53.005l-19.97,16.073Zm-3.379,2,22.2,17.857a1.844,1.844,0,0,0,2.3,0l22.2-17.857v27.5H9.687Z" transform="translate(-6 -972.362)"/>
+      </g>
+    </g>
+  </g>
+</svg>

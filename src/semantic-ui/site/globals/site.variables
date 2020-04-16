@@ -1,0 +1,9 @@
+/*******************************
+     User Global Variables
+*******************************/
+@fontName : -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+@importGoogleFonts : true;
+
+@primaryColor: #1c7ff2;
+@defaultBorderRadius: 0.2307em;
+@primaryButtonColor: #1c7ff2;

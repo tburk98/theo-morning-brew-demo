@@ -1,3 +1,21 @@
+
+
+# Live Link Here
+https://morning-brew.herokuapp.com
+
+# Notes
+Just a list of known bugs/things I would clean up with more time
+
+1. Needs optimized for all screen sizes (only works with laptop-ish to large screens).
+2. No buttons or links are hooked up.
+3. The "Try the Morning Brew for free now" banner text is wonky (See mockup).
+4. Footer spacing looks weird.
+5. In general this is a demo and not a finished product.
+
+
+------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +84,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
